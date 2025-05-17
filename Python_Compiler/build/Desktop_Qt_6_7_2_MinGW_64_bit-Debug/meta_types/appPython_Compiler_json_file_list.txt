@@ -1,0 +1,4 @@
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appPython_Compiler_autogen/include/../EWIEGA46WW/moc_Controller.cpp.json
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appPython_Compiler_autogen/include/../EWIEGA46WW/moc_SymbolTable.cpp.json
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appPython_Compiler_autogen/include/../EWIEGA46WW/moc_lexer.cpp.json
+C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/appPython_Compiler_autogen/include/../EWIEGA46WW/moc_parser.cpp.json

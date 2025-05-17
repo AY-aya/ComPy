@@ -1,0 +1,235 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Controller",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "loadFile",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "clearCode",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "runLexer",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "runParser",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "code",
+                        "notify": "codeChanged",
+                        "read": "code",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "tokens",
+                        "notify": "tokensChanged",
+                        "read": "tokens",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "symbolTable",
+                        "notify": "symbolTableChanged",
+                        "read": "symbolTable",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "name": "errors",
+                        "notify": "errorsChanged",
+                        "read": "errors",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "name": "parserSymbolTable",
+                        "notify": "parserSymbolTableChanged",
+                        "read": "parserSymbolTable",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "name": "parserErrors",
+                        "notify": "parserErrorsChanged",
+                        "read": "parserErrors",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QStringList",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 6,
+                        "name": "parseTreeJson",
+                        "notify": "parseTreeJsonChanged",
+                        "read": "parseTreeJson",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "Controller",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "codeChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "tokensChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "symbolTableChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "errorsChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "parserErrorsChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "parserSymbolTableChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "parseTreeJsonChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "Controller.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SymbolTable",
+                "object": true,
+                "qualifiedClassName": "SymbolTable",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "SymbolTable.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Lexer",
+                "object": true,
+                "qualifiedClassName": "Lexer",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "lexer.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Parser",
+                "object": true,
+                "qualifiedClassName": "Parser",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "parser.h",
+        "outputRevision": 68
+    }
+]

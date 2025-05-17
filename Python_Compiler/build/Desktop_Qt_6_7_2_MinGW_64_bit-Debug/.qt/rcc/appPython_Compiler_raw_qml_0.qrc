@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/Python_Compiler/">
+    <file alias="main.qml">C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/main.qml</file>
+    <file alias="assets/logo.png">C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/assets/logo.png</file>
+  </qresource>
+</RCC>
+

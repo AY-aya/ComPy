@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Lexer",
+            "object": true,
+            "qualifiedClassName": "Lexer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "lexer.h",
+    "outputRevision": 68
+}

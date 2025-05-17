@@ -1,0 +1,4 @@
+module Python_Compiler
+typeinfo appPython_Compiler.qmltypes
+prefer :/Python_Compiler/
+

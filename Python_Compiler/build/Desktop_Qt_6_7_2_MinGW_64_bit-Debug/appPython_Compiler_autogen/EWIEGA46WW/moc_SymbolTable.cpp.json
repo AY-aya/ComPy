@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "SymbolTable",
+            "object": true,
+            "qualifiedClassName": "SymbolTable",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "SymbolTable.h",
+    "outputRevision": 68
+}

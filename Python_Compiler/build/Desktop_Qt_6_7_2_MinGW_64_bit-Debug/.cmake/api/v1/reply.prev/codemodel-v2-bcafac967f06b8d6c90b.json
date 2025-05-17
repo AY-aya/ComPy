@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-569118fe122174a01426.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Python_Compiler",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-806d65a1072783ae0868.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c59941ee6285f8747317.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3fef355120987a0c6a7b.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e476048edd50ef60d10f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler-Debug-a3aa2c3ff86be0d6aecd.json",
+					"name" : "appPython_Compiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_autogen-Debug-773f6c1d7b84ebb7d714.json",
+					"name" : "appPython_Compiler_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_autogen_timestamp_deps-Debug-31b11c6644d07b9a4a62.json",
+					"name" : "appPython_Compiler_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_qmlimportscan-Debug-07e8f85e4a1441755ec8.json",
+					"name" : "appPython_Compiler_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_qmllint-Debug-4edb5cd8d4352147fdc7.json",
+					"name" : "appPython_Compiler_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_qmllint_json-Debug-e58af40f7f68f58eb189.json",
+					"name" : "appPython_Compiler_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_qmllint_module-Debug-0925256f954891983aaa.json",
+					"name" : "appPython_Compiler_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_qmltyperegistration-Debug-18ab1a78d4b5372215c0.json",
+					"name" : "appPython_Compiler_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPython_Compiler_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPython_Compiler_tooling-Debug-5078830bede1acd3655d.json",
+					"name" : "appPython_Compiler_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ayaya/OneDrive/Desktop/Random/QT_projects/Python_Compiler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
