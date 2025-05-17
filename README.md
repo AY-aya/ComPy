@@ -4,8 +4,7 @@
 This project is a Python compiler frontend written in C++. It includes a **Lexical Analyzer (Lexer)**, a **Recursive Descent Parser**, and a **Graphical User Interface (GUI)** built with **Qt6/QML**. The project supports a simplified subset of the Python programming language and is designed for educational purposes, showcasing compiler design concepts such as tokenization, grammar parsing, and syntax tree construction.
 
 ---
-![compy logo](https://github.com/user-attachments/assets/1080637a-1f61-4045-b405-0fb4c2e873c9)
-
+![compy logo](https://github.com/user-attachments/assets/5b36f708-f676-47aa-8552-8e0da3ca319a)
 ---
 
 ## 🚀 Features
